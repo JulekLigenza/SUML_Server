@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pycaret
+pandas
+scikit-learn
+requests
+catboost
